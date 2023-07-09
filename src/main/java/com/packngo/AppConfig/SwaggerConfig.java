@@ -63,7 +63,7 @@ public static final String AUTHORIZATION_HEADER ="Authorization";
 		
 		 return new ApiInfoBuilder()
 	                .title("PackAndGo")
-	                .description("This Project is developed by Nitesh Kumar Pal")
+	                .description("Developed by Yousef Mahmoud")
 	                .version("1.0.0")
 	                .build();
 	}
